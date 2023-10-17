@@ -10,7 +10,7 @@ comments: false
 
 Welcome to the Greater Corvallis Restaurant Association (GCRA), your ultimate destination for exploring the culinary delights of Corvallis, Oregon. With a rich tapestry of diverse flavors, a commitment to sustainability, and a vibrant food culture, our association brings together a collective of passionate restaurateurs dedicated to serving exceptional cuisine and fostering a sense of community within the heart of the Willamette Valley.
 
-![{{ site.url }}/assets/img/man.jpg](man)
+![man]({{ site.url }}/assets/img/man.jpg)
 
 ## Our Mission
 
