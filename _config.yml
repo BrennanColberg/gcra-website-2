@@ -2,7 +2,7 @@
 title:              'Greater Corvallis Restaurant Association'
 bio:                'Representing the interests of restaurants in Corvallis, Oregon.'
 description:        'Representing the interests of restaurants in Corvallis, Oregon.'
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/gcra-logo-circle.jpg'
 background:         'assets/img/background.jpg'
