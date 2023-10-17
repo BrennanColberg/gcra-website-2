@@ -4,7 +4,7 @@ bio:                'Representing the interests of restaurants in Corvallis, Ore
 description:        'Representing the interests of restaurants in Corvallis, Oregon.'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/gcra-logo.jpg'
+logo:               'assets/img/gcra-logo-circle.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
