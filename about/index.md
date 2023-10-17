@@ -14,10 +14,6 @@ Welcome to the Greater Corvallis Restaurant Association (GCRA), your ultimate de
 
 At GCRA, our mission is simple yet profound: to celebrate, support, and elevate the local restaurant scene in Corvallis. We aim to connect patrons with the finest dining experiences, champion the culinary arts, promote sustainable and ethical practices within the industry, and represent the interests of our members to local government.
 
-## Discover Corvallis Through Food
-
-Corvallis is a city of remarkable gastronomy, and GCRA is your compass to navigate this culinary paradise. Whether you're a resident looking for your next dining adventure or a visitor eager to savor the local flavors, our association provides a curated guide to the best restaurants, cafes, food trucks, and eateries in the region.
-
 ## Our Values
 
 - Community: We believe in the power of food to bring people together. Our association fosters a sense of community among restaurants, their staff, and the patrons who frequent them.
@@ -39,9 +35,6 @@ The Greater Corvallis Restaurant Association is more than just a collection of e
 
 Are you a restaurant owner or a chef in Corvallis? Join GCRA to connect with peers, share your culinary expertise, and contribute to the growth and sustainability of the local restaurant industry. We offer resources, networking opportunities, and a platform to showcase your establishment to a broader audience. Plus, we will represent your interests to local government, advocating for policies that benefit your business.
 
-## For Food Enthusiasts:
-
-If you're a food enthusiast, GCRA is your gateway to exploring the vibrant culinary landscape of Corvallis. Keep up to date with the latest food events, discover hidden gems, and connect with like-minded individuals who share your passion for good food and community.
 
 ## Contact Us
 
